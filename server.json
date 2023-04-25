@@ -1,0 +1,108 @@
+{
+  "user": [
+    {
+      "firstName": "ayushi",
+      "username": "ayushi",
+      "lastName": "ayushi",
+      "password": "aa",
+      "email": "a@gmail.com",
+      "confirmPassword": "aa",
+      "id": 1
+    },
+    {
+      "firstName": "Geetesh",
+      "username": "gp",
+      "lastName": "",
+      "password": "gp",
+      "email": "gp@gmail.com",
+      "confirmPassword": "gp",
+      "id": 2
+    },
+    {
+      "firstName": "aish",
+      "username": "aish",
+      "lastName": "",
+      "password": "am",
+      "email": "aish@gmail.com",
+      "confirmPassword": "am",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "name": "Amber Smith",
+      "id": 2
+    },
+    {
+      "name": "Cedric Gislason",
+      "id": 4
+    },
+    {
+      "name": "Derrick Cremin",
+      "id": 5
+    },
+    {
+      "name": "Derrick Franey",
+      "id": 7
+    }
+  ],
+  "albums": [
+    {
+      "userId": 4,
+      "title": "Incredible Concrete Pizza",
+      "id": 9
+    },
+    {
+      "userId": 4,
+      "title": "Ergonomic Bronze Soap",
+      "id": 10
+    },
+    {
+      "userId": 4,
+      "title": "Licensed Steel Tuna",
+      "id": 11
+    },
+    {
+      "userId": 2,
+      "title": "Practical Metal Computer",
+      "id": 12
+    },
+    {
+      "userId": 4,
+      "title": "Gorgeous Steel Shoes",
+      "id": 13
+    },
+    {
+      "userId": 2,
+      "title": "Electronic Steel Salad",
+      "id": 14
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=87238",
+      "id": 3
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=78411",
+      "id": 7
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=69722",
+      "id": 8
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=13063",
+      "id": 9
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=91740",
+      "id": 10
+    }
+  ]
+}
